@@ -1,3 +1,13 @@
+<div align="center">
+  <svg viewBox="0 0 800 200" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="200" rx="10" fill="#0d1b2a"/>
+    <text x="50%" y="75" fill="#ffffff" font-size="42" font-weight="bold" font-family="Arial, sans-serif" text-anchor="middle">Pokuri Ganesh</text>
+    <text x="50%" y="130" fill="#e0e1dd" font-size="20" font-family="Arial, sans-serif" text-anchor="middle">Computer Science Engineering Student</text>
+    <text x="50%" y="160" fill="#778da9" font-size="16" font-family="Arial, sans-serif" text-anchor="middle">Software Developer</text>
+  </svg>
+</div>
+
+
 # 👋 Hi, I'm Pokuri Ganesh
 
 <h3 align="center">💻 Computer Science Engineering Student | Software Developer</h3>
