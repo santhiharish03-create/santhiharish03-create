@@ -151,10 +151,13 @@ A responsive e-commerce web application that provides users with a complete onli
 ---
 
 # 📜 Certifications
+# 📜 Certifications
 
-* 🐍 **Programming Fundamentals using Python**
-* 🌐 **Network Technician Career Path**
-
+<p align="center">
+  <a href="URL_FOR_AWS_CERTIFICATE"><img src="URL_FOR_AWS_CERTIFICATE" width="30%" alt="AWS Cloud Practitioner Essentials" /></a>
+  <a href="URL_FOR_AI_HACKATHON"><img src="URL_FOR_AI_HACKATHON" width="30%" alt="AI Hackathon 2026 Certificate" /></a>
+  <a href="URL_FOR_COORDINATOR_CERTIFICATE"><img src="URL_FOR_COORDINATOR_CERTIFICATE" width="30%" alt="Vignan Consortium Coordinator Certificate" /></a>
+</p>
 ---
 
 # 🏆 Achievements & Activities
