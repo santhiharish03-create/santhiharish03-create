@@ -155,9 +155,11 @@ A responsive e-commerce web application that provides users with a complete onli
 
 # 📜 Certifications
 
-* 🎓 **AWS Cloud Practitioner Essentials** (Completed April 2025) — [1000154680.pdf](https://github.com/user-attachments/files/31154238/1000154680.pdf)
-* 🏆 **AI Hackathon 2026** – Agentic AI Club, VFSTR — [View Certificate (PDF)](YOUR_HACKATHON_PDF_URL)[cite: 2]
-* 📜 **Coordinator** – Vignan's Consortium of Designers & Engineers (2026) — [View Certificate (PDF)](YOUR_COORDINATOR_PDF_URL)[cite: 1]
+* 🎓 **AWS Cloud Practitioner Essentials** (Completed April 2025) — [aws cloud certificate.pdf](https://github.com/user-attachments/files/31154299/aws.cloud.certificate.pdf)
+
+* 🏆 **AI Hackathon 2026** – Agentic AI Club, VFSTR — [AAIC-26-HK-04-PC-055.pdf](https://github.com/user-attachments/files/31154287/AAIC-26-HK-04-PC-055.pdf)
+
+* 📜 **Coordinator** – Vignan's Consortium of Designers & Engineers (2026) —  [1000154680.pdf](https://github.com/user-attachments/files/31154238/1000154680.pdf)
 ---
 
 # 🏆 Achievements & Activities
