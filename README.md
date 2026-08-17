@@ -1,12 +1,8 @@
 <div align="center">
-  <svg viewBox="0 0 800 200" width="100%" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="200" rx="10" fill="#0d1b2a"/>
-    <text x="50%" y="75" fill="#ffffff" font-size="42" font-weight="bold" font-family="Arial, sans-serif" text-anchor="middle">Pokuri Ganesh</text>
-    <text x="50%" y="130" fill="#e0e1dd" font-size="20" font-family="Arial, sans-serif" text-anchor="middle">Computer Science Engineering Student</text>
-    <text x="50%" y="160" fill="#778da9" font-size="16" font-family="Arial, sans-serif" text-anchor="middle">Software Developer</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=220&section=header&text=Pokuri%20Ganesh&fontSize=45&fontColor=ffffff&desc=Computer%20Science%20Engineering%20Student%0A%7C%20Software%20Developer&descSize=18&descAlignY=72" width="100%" />
 </div>
 
+# 👋 Hi, I'm Pokuri Ganesh
 
 # 👋 Hi, I'm Pokuri Ganesh
 
