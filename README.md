@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=220&section=header&text=Pokuri%20Ganesh&fontSize=45&fontColor=ffffff&desc=Computer%20Science%20Engineering%20Student%0A%7C%20Software%20Developer&descSize=18&descAlignY=72" width="100%" />
 </div>
 
-# 👋 Hi, I'm Pokuri Ganesh
 
 # 👋 Hi, I'm Pokuri Ganesh
 
