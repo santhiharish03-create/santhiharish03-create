@@ -1,5 +1,3 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=1B2A4A&height=180&section=header&text=Pokuri%20Ganesh&fontSize=40&fontColor=ffffff&desc=Computer%20Science%20Engineering%20Student&descSize=18)
-
 # 👋 Hi, I'm Pokuri Ganesh
 
 <h3 align="center">💻 Computer Science Engineering Student | Software Developer</h3>
